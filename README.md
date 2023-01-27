@@ -5,4 +5,6 @@
 Среднее специальное образование 
 Женат 
 Учусь в Нетологии 
-![Alt text](../Qfq4YvVpTuQ.jpg)
+![Alt text][def]
+
+[def]: ../Qfq4YvVpTuQ.jpg
